@@ -13,7 +13,7 @@ This will grow as I find more cool stuff!
 <details>
 <summary><code>lucide-generator.sh</code></summary>
 
-[File Link!](./lucide-generator.sh)
+[Go There!](./lucide-generator.sh)
 > A bash script that will take a set of [Lucide](https://lucide.dev) icons and make an Obsidian CSS snippet that'll let you use those icons in your Obsidian callouts (providing Obsidian has the icon).
 > 
 <!-- TODO: Screenshot -->
@@ -23,7 +23,7 @@ This will grow as I find more cool stuff!
 <details>
 <summary><code>templater.md</code></summary>
 
-[File Link!](templater.md)
+[Go There!](templater.md)
 > A selection of [Templater](https://github.com/SilentVoid13/Templater) scripts & snippets that I like.
 
 </details>
@@ -31,7 +31,7 @@ This will grow as I find more cool stuff!
 <details>
 <summary><code>dataview.md</code></summary>
 
-[File Link!](dataview.md)
+[Go There!](dataview.md)
 > A selection of [Dataview]() scripts & snippets that I like.
 
 </details>
