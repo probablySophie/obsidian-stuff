@@ -15,7 +15,9 @@ This will grow as I find more cool stuff!
 
 [Go There!](./lucide-generator.sh)
 > A bash script that will take a set of [Lucide](https://lucide.dev) icons and make an Obsidian CSS snippet that'll let you use those icons in your Obsidian callouts (providing Obsidian has the icon).
-> 
+>  
+> `> [!custom-cat-purple]`  
+> <img src="meta/Example custom callout.png">
 <!-- TODO: Screenshot -->
 
 </details>
