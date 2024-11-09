@@ -8,7 +8,7 @@ This will grow as I find more cool stuff!
 
 ****
 
-### What's in here? <img src="meta/list-tree.svg">
+### <img src="meta/list-tree.svg"> What's in here? 
 
 <details>
 <summary><code>lucide-generator.sh</code></summary>
