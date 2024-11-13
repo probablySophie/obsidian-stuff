@@ -25,3 +25,13 @@ front_matter = yaml.load(
 ```
 *Unfortunately I can't remember where I found out that you can import and use external JS modules*
 
+## Scripts
+
+### Wiki Link
+
+I like having links to (relevant) Wikipedia pages at the top of my notes for specific things and phenomena.
+
+Pulls the top 3 (configurable) matches for a given search string.  
+**To use this script, you will have to update the 2 marked constant variables to have valid contents**
+
+I use this in my blank note template in the form: `<% tp.user.wikilink(tp.file.title) %>` to pull multiple possible matches for the note title.
